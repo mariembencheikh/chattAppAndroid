@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="text_login">Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirmPassword">Confirm password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="link_register">Not yet registered? SignUp Now</string>
+    <string name="link_login">Have you an account? Sing In  Now</string>
+    <string name="text_signup">Register</string>
+    <string name="hint_email">Email</string>
+    <string name="text_chat">Chat App</string>
+    <string name="logout">Logout</string>
+    <string name="fragmentUsers">Users</string>
+    <string name="fragmentChat">Chats</string>
+</resources>
